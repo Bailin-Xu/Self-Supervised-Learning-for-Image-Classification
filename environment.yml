@@ -1,0 +1,11 @@
+name: simclr-stl10-cpu
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=2.4.*
+  - torchvision=0.19.*
+  - numpy>=1.24,<2.1
+  - matplotlib>=3.7
+  - pip
