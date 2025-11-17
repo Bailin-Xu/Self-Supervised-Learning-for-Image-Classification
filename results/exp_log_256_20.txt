@@ -1,0 +1,54 @@
+[2025-11-17 02:59:19] Start sweep on cpu
+[2025-11-17 02:59:35] Running temp0.1_batch256_ep20
+[2025-11-17 03:02:07] temp0.1_batch256_ep20 Ep1 SSL-Loss=5.4083
+[2025-11-17 03:04:55] temp0.1_batch256_ep20 Ep2 SSL-Loss=4.4063
+[2025-11-17 03:07:33] temp0.1_batch256_ep20 Ep3 SSL-Loss=3.7567
+[2025-11-17 03:09:21] Start sweep on cuda
+[2025-11-17 03:09:39] Running temp0.1_batch256_ep20
+[2025-11-17 03:11:52] temp0.1_batch256_ep20 Ep1 SSL-Loss=5.4833
+[2025-11-17 03:27:37] Start sweep on cuda
+[2025-11-17 03:27:55] Running temp0.1_batch256_ep20
+[2025-11-17 03:29:31] temp0.1_batch256_ep20 Ep1 SSL-Loss=5.4357
+[2025-11-17 03:31:48] temp0.1_batch256_ep20 Ep2 SSL-Loss=4.4518
+[2025-11-17 03:34:21] temp0.1_batch256_ep20 Ep3 SSL-Loss=3.8487
+[2025-11-17 03:35:30] temp0.1_batch256_ep20 Ep4 SSL-Loss=3.4955
+[2025-11-17 03:36:37] temp0.1_batch256_ep20 Ep5 SSL-Loss=3.1131
+[2025-11-17 03:37:44] temp0.1_batch256_ep20 Ep6 SSL-Loss=2.8472
+[2025-11-17 03:38:51] temp0.1_batch256_ep20 Ep7 SSL-Loss=2.6987
+[2025-11-17 03:39:57] temp0.1_batch256_ep20 Ep8 SSL-Loss=2.5229
+[2025-11-17 03:41:05] temp0.1_batch256_ep20 Ep9 SSL-Loss=2.4499
+[2025-11-17 03:42:12] temp0.1_batch256_ep20 Ep10 SSL-Loss=2.3115
+[2025-11-17 03:43:24] temp0.1_batch256_ep20 Ep11 SSL-Loss=2.2065
+[2025-11-17 03:45:29] temp0.1_batch256_ep20 Ep12 SSL-Loss=2.1200
+[2025-11-17 03:47:57] temp0.1_batch256_ep20 Ep13 SSL-Loss=2.0303
+[2025-11-17 03:49:32] temp0.1_batch256_ep20 Ep14 SSL-Loss=2.0085
+[2025-11-17 03:50:41] temp0.1_batch256_ep20 Ep15 SSL-Loss=1.9150
+[2025-11-17 03:51:50] temp0.1_batch256_ep20 Ep16 SSL-Loss=1.9030
+[2025-11-17 03:52:58] temp0.1_batch256_ep20 Ep17 SSL-Loss=1.8568
+[2025-11-17 03:54:31] temp0.1_batch256_ep20 Ep18 SSL-Loss=1.7937
+[2025-11-17 03:55:39] temp0.1_batch256_ep20 Ep19 SSL-Loss=1.7996
+[2025-11-17 03:56:47] temp0.1_batch256_ep20 Ep20 SSL-Loss=1.7370
+[2025-11-17 03:57:17] temp0.1_batch256_ep20 Acc=0.2109
+[2025-11-17 03:57:17] Running temp0.2_batch256_ep20
+[2025-11-17 03:58:37] temp0.2_batch256_ep20 Ep1 SSL-Loss=5.3540
+[2025-11-17 04:00:21] temp0.2_batch256_ep20 Ep2 SSL-Loss=4.5269
+[2025-11-17 04:02:06] temp0.2_batch256_ep20 Ep3 SSL-Loss=4.2122
+[2025-11-17 04:03:52] temp0.2_batch256_ep20 Ep4 SSL-Loss=4.0617
+[2025-11-17 04:05:36] temp0.2_batch256_ep20 Ep5 SSL-Loss=3.9186
+[2025-11-17 04:07:20] temp0.2_batch256_ep20 Ep6 SSL-Loss=3.8241
+[2025-11-17 04:09:06] temp0.2_batch256_ep20 Ep7 SSL-Loss=3.7310
+[2025-11-17 04:10:31] temp0.2_batch256_ep20 Ep8 SSL-Loss=3.6863
+[2025-11-17 04:11:39] temp0.2_batch256_ep20 Ep9 SSL-Loss=3.6142
+[2025-11-17 04:12:47] temp0.2_batch256_ep20 Ep10 SSL-Loss=3.5720
+[2025-11-17 04:13:56] temp0.2_batch256_ep20 Ep11 SSL-Loss=3.5438
+[2025-11-17 04:15:27] temp0.2_batch256_ep20 Ep12 SSL-Loss=3.4904
+[2025-11-17 04:16:36] temp0.2_batch256_ep20 Ep13 SSL-Loss=3.4517
+[2025-11-17 04:17:44] temp0.2_batch256_ep20 Ep14 SSL-Loss=3.4309
+[2025-11-17 04:18:52] temp0.2_batch256_ep20 Ep15 SSL-Loss=3.3904
+[2025-11-17 04:20:08] temp0.2_batch256_ep20 Ep16 SSL-Loss=3.3463
+[2025-11-17 04:21:31] temp0.2_batch256_ep20 Ep17 SSL-Loss=3.3219
+[2025-11-17 04:22:39] temp0.2_batch256_ep20 Ep18 SSL-Loss=3.3070
+[2025-11-17 04:23:47] temp0.2_batch256_ep20 Ep19 SSL-Loss=3.2900
+[2025-11-17 04:24:59] temp0.2_batch256_ep20 Ep20 SSL-Loss=3.2684
+[2025-11-17 04:25:31] temp0.2_batch256_ep20 Acc=0.3583
+[2025-11-17 04:25:31] Sweep Completed.
